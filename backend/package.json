@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "micro-cors": "^0.1.1",
+    "then-sleep": "^1.0.1"
+  }
+}
