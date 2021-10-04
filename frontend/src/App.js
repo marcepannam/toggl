@@ -1,7 +1,12 @@
-import React from 'react';
+import React from "react";
+import FilesUploader from "./FilesUploader";
 
 function App() {
-  return <div>Implement me!</div>;
+  return (
+    <div>
+      <FilesUploader />
+    </div>
+  );
 }
 
 export default App;
